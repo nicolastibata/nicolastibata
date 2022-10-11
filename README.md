@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicolas and I'm an Economist
 
-- 🧩 The Data Science is my passion
+- 🧩 Data Science is my passion
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate with everyone
 - 🥅  2022 Goals: Learning more about ML and AI
