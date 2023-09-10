@@ -3,7 +3,7 @@
 - 🧩 Data Science / Computer Science / ML
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with everyone
-- ⚡ Fun fact: I would have studied programming instead of economics
+- ⚡ I would have studied computer science instead of economics
 
 ### Connect with me:
 
