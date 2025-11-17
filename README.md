@@ -1,9 +1,4 @@
-### Hi there, I'm Nicolas and I'm an Economist
-
-- 🧩 Data Science / Computer Science / ML
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with everyone
-- ⚡ I would have studied computer science instead of economics
+### Hi there,
 
 ### Connect with me:
 
